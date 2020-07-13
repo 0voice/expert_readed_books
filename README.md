@@ -403,17 +403,13 @@
 <br/>
 <br/>
 
-## 更多
+<h3 >联系我们</h3> 
 
-**获取技术交流, 专家架构交流3群：783153655**
+---
 
-**C/C++ Linux技术交流群：762073882**
+**每天晚上8点免费技术分享直播，扫码即可加入，小姐姐给你发每天的直播链接，备注github文档**
 
-**若群已满，添加QQ：936204305 , 备注github**
-
-**关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料**
-
-<img src = "https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg" />
+![image](https://github.com/0voice/interview_internal_reference/blob/master/contact.jpg)
 
   
   
