@@ -7,37 +7,37 @@
   </tr><tr>
   <td align="center">
     <a href="#计算机科学类">
-      <img src="icons/计算机科学类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%B1%BB.png" width="120px" height="100px">
       <p>计算机科学</p>
     </a>
   </td>
   <td align="center">
     <a href="#软件技术类">
-      <img src="icons/软件技术类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF%E7%B1%BB.png" width="120px" height="100px">
       <p>软件技术类</p>
     </a>
   </td>
   <td align="center">
     <a href="#软件工程">
-      <img src="icons/工程类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E5%B7%A5%E7%A8%8B%E7%B1%BB.png" width="120px" height="100px">
       <p>软件工程</p>
     </a>
   </td>
   <td align="center">
     <a href="#创业类">
-      <img src="icons/创业类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E5%88%9B%E4%B8%9A%E7%B1%BB.png" width="120px" height="100px">
       <p>创业类</p>
     </a>
   </td>
   <td align="center">
     <a href="#哲学类">
-      <img src="icons/哲学类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E5%93%B2%E5%AD%A6%E7%B1%BB.png" width="120px" height="100px">
       <p>哲学类</p>
     </a>
   </td>
   <td align="center">
     <a href="#大佬书籍">
-      <img src="icons/大佬书籍.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D.png" width="120px" height="100px">
       <p>大佬书籍</p>
     </a>
   </td>
@@ -47,38 +47,38 @@
   
   <td align="center">
     <a href="#历史类">
-      <img src="icons/历史类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E5%8E%86%E5%8F%B2%E7%B1%BB.png" width="120px" height="100px">
       <p>历史类</p>
     </a>
   </td>
   <td align="center">
     <a href="#思想类">
-      <img src="icons/思想类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E6%80%9D%E6%83%B3%E7%B1%BB.png" width="120px" height="100px">
       <p>思想类</p>
     </a>
   </td>
   <td align="center">
     <a href="#数学类">
-      <img src="icons/数学类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E6%95%B0%E5%AD%A6%E7%B1%BB.png" width="120px" height="100px">
       <p>数学类</p>
     </a>
   </td>
   <td align="center">
     <a href="#经济类">
-      <img src="icons/经济类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E7%BB%8F%E6%B5%8E%E7%B1%BB.png" width="120px" height="100px">
       <p>经济类</p>
     </a>
   </td>
   
   <td align="center">
     <a href="#小说类">
-      <img src="icons/小说类.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E5%B0%8F%E8%AF%B4%E7%B1%BB.png" width="120px" height="100px">
       <p>小说类</p>
     </a>
   </td>
   <td align="center">
     <a href="#人物传">
-      <img src="icons/人物传.png" width="120px" height="100px">
+      <img src="https://www.0voice.com/uiwebsite/icons/%E4%BA%BA%E7%89%A9%E4%BC%A0.png" width="120px" height="100px">
       <p>人物传</p>
     </a>
   </td>
