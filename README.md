@@ -139,7 +139,7 @@
 ## 人物传
 
 #### [从乞丐到元首希特勒》](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E4%BB%8E%E4%B9%9E%E4%B8%90%E5%88%B0%E5%85%83%E9%A6%96%E5%B8%8C%E7%89%B9%E5%8B%92%E4%BC%A0%E3%80%8B.txt)
-#### [拿破仑传作者](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E6%8B%BF%E7%A0%B4%E4%BB%91%E4%BC%A0%E3%80%8B%E4%BD%9C%E8%80%85%EF%BC%9A%5B%E5%BE%B7%5D%E8%89%BE%E7%B1%B3%E5%B0%94%C2%B7%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C.txt)
+#### [拿破仑传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E6%8B%BF%E7%A0%B4%E4%BB%91%E4%BC%A0%E3%80%8B%E4%BD%9C%E8%80%85%EF%BC%9A%5B%E5%BE%B7%5D%E8%89%BE%E7%B1%B3%E5%B0%94%C2%B7%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C.txt)
 #### [阿桑奇自传：不能不说的秘密](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%98%BF%E6%A1%91%E5%A5%87%E8%87%AA%E4%BC%A0%EF%BC%9A%E4%B8%8D%E8%83%BD%E4%B8%8D%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86.epub)
 #### [巴尔扎克传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%B7%B4%E5%B0%94%E6%89%8E%E5%85%8B%E4%BC%A0.mobi)
 #### [贝多芬传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E4%BC%A0.mobi)
