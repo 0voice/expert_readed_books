@@ -89,7 +89,17 @@
   
 <br/>
 <br/>
- 
+## 思想类
+
+#### [禅与摩托车维修艺术](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF.mobi)
+#### [程序员的职业素养](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB.pdf)
+#### [代码整洁之道](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.azw3)
+#### [交互设计之路](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B9%8B%E8%B7%AF.pdf)
+#### [刻意练习](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0.mobi)
+#### [设计心理学](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E8%AE%BE%E8%AE%A1%E5%BF%83%E7%90%86%E5%AD%A6%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C.mobi)
+#### [修改代码的艺术](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BF%AE%E6%94%B9%E4%BB%A3%E7%A0%81%E7%9A%84%E8%89%BA%E6%9C%AF(%E4%B8%AD%E6%96%87pdf%E7%89%88).pdf)
+
+<br/>
 ## 计算机科学类
 
 #### [深入理解计算机系统]()
@@ -200,17 +210,7 @@
 
 <br/>
 
-## 思想类
 
-#### [禅与摩托车维修艺术](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF.mobi)
-#### [程序员的职业素养](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB.pdf)
-#### [代码整洁之道](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.azw3)
-#### [交互设计之路](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B9%8B%E8%B7%AF.pdf)
-#### [刻意练习](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0.mobi)
-#### [设计心理学](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E8%AE%BE%E8%AE%A1%E5%BF%83%E7%90%86%E5%AD%A6%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C.mobi)
-#### [修改代码的艺术](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BF%AE%E6%94%B9%E4%BB%A3%E7%A0%81%E7%9A%84%E8%89%BA%E6%9C%AF(%E4%B8%AD%E6%96%87pdf%E7%89%88).pdf)
-
-<br/>
 
 ## 数学类
 
