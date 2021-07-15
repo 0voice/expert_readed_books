@@ -138,7 +138,7 @@
 
 ## 人物传
 
-#### [从乞丐到元首希特勒》](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E4%BB%8E%E4%B9%9E%E4%B8%90%E5%88%B0%E5%85%83%E9%A6%96%E5%B8%8C%E7%89%B9%E5%8B%92%E4%BC%A0%E3%80%8B.txt)
+#### [从乞丐到元首希特勒](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E4%BB%8E%E4%B9%9E%E4%B8%90%E5%88%B0%E5%85%83%E9%A6%96%E5%B8%8C%E7%89%B9%E5%8B%92%E4%BC%A0%E3%80%8B.txt)
 #### [拿破仑传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E6%8B%BF%E7%A0%B4%E4%BB%91%E4%BC%A0%E3%80%8B%E4%BD%9C%E8%80%85%EF%BC%9A%5B%E5%BE%B7%5D%E8%89%BE%E7%B1%B3%E5%B0%94%C2%B7%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C.txt)
 #### [阿桑奇自传：不能不说的秘密](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%98%BF%E6%A1%91%E5%A5%87%E8%87%AA%E4%BC%A0%EF%BC%9A%E4%B8%8D%E8%83%BD%E4%B8%8D%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86.epub)
 #### [巴尔扎克传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%B7%B4%E5%B0%94%E6%89%8E%E5%85%8B%E4%BC%A0.mobi)
@@ -177,25 +177,16 @@
 
 ## 计算机科学类
 
-#### 深入理解计算机系统
-
-#### 算法导论
-
-#### 性能之巅
-
-#### 计算机编程艺术
-
-#### Unix高级环境编程
-
-#### TCP/IP详解卷I II III
-
-#### 区块链核心算法解析
-
-#### Windows核心编程
-
-#### 深入linux内核架构
-
-#### 编译原理（龙书）
+#### [TCP-IP详解卷三：TCP事务协议、HTTP、NNTP和UNIX域协议](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%5BTCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7%E4%B8%89%EF%BC%9ATCP%E4%BA%8B%E5%8A%A1%E5%8D%8F%E8%AE%AE%E3%80%81HTTP%E3%80%81NNTP%E5%92%8CUNIX%E5%9F%9F%E5%8D%8F%E8%AE%AE%5D(%E5%B0%8F%E8%9A%82%E8%9A%81%E7%AB%99%E9%95%BF%E5%90%A7www.xiaomayi88.com).pdf)
+#### [Python网络数据采集](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.epub)
+#### [unix高级环境编程](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+#### [图解HTTP](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E5%9B%BE%E8%A7%A3HTTP.mobi)
+#### [数据结构与算法分析](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90.mobi)
+#### [普拉达Stephen Prata-C-Primer-Plus](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%99%AE%E6%8B%89%E8%BE%BE-(Stephen-Prata)-C-Primer-Plus(%E7%AC%AC6%E7%89%88)(%E4%B8%AD%E6%96%87%E7%89%88).mobi)
+#### [计算机程序设计艺术](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF(%E7%AC%AC3%E7%89%88)%E2%80%94%E2%80%94%5B%E7%AC%AC1%E5%8D%B7%5D%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95.pdf)
+#### [计算机程序的构造和解释](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A%20pdf%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+#### [编译原理](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%EF%BC%88%E9%AB%98%E6%B8%85%E9%BE%99%E4%B9%A6%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
+#### [编码 隐匿在计算机软硬件背后的语言](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E7%BC%96%E7%A0%81%20%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)
 
 <br/>
 
