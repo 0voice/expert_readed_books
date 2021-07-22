@@ -603,11 +603,15 @@
 <h3 >联系我们</h3> 
 
 ---
+#### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
+每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037711)
+  
+#### 2、免费订阅直播链接【添加WX: cz1625358265】即可领取对标腾讯T9职级技术要求的后台开发学习图谱。
 
-**每天晚上8点免费技术分享直播，扫码即可加入【wx:cz1625358265】小姐姐给你发每天的直播链接，备注github文档** <br/>
-**直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
+![大纲部分图.png](https://img11.360buyimg.com/ddimg/jfs/t1/37229/14/15620/149708/60e6a78eE5241eec1/d0f0c9d9aa1e4d99.png)
 
-![image](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
+#### 微信扫码联系VIP课程咨询橙子老师，免费领取更多福利干货资料【备注：GitHub论文】
+![barcode](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
 
   
   
