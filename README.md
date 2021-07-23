@@ -90,106 +90,6 @@
 <br/>
 <br/>
 
-## 思想类
-
-#### [禅与摩托车维修艺术](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF.mobi)
-#### [程序员的职业素养](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB.pdf)
-#### [代码整洁之道](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.azw3)
-#### [交互设计之路](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B9%8B%E8%B7%AF.pdf)
-#### [刻意练习](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0.mobi)
-#### [设计心理学](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E8%AE%BE%E8%AE%A1%E5%BF%83%E7%90%86%E5%AD%A6%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C.mobi)
-#### [修改代码的艺术](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BF%AE%E6%94%B9%E4%BB%A3%E7%A0%81%E7%9A%84%E8%89%BA%E6%9C%AF(%E4%B8%AD%E6%96%87pdf%E7%89%88).pdf)
-#### [C++沉思录(Ruminations on C++)](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/C%2B%2B%E6%B2%89%E6%80%9D%E5%BD%95(Ruminations%20on%20C%2B%2B)%E4%B8%AD%E6%96%87%E7%AC%AC2%E7%89%88.pdf)
-#### [C++编程思想](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/C%2B%2B%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3.pdf)
-#### [C++设计新思维](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/C%2B%2B%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%80%9D%E7%BB%B4.pdf)
-#### [Java程序员的基本修养](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/Java%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BF%AE%E5%85%BB%E6%9D%8E%E5%88%9A%E7%BC%96%E8%91%97.pdf)
-#### [Java编程思想](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3(%E7%AC%AC4%E7%89%88).pdf)
-#### [哥德尔、艾舍尔、巴赫：集异璧之大成](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E5%93%A5%E5%BE%B7%E5%B0%94%E3%80%81%E8%89%BE%E8%88%8D%E5%B0%94%E3%80%81%E5%B7%B4%E8%B5%AB%EF%BC%9A%E9%9B%86%E5%BC%82%E7%92%A7%E4%B9%8B%E5%A4%A7%E6%88%90.mobi)
-#### [失控](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E5%A4%B1%E6%8E%A7.pdf)
-#### [游戏之旅-我的编程感悟](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E6%B8%B8%E6%88%8F%E4%B9%8B%E6%97%85-%E6%88%91%E7%9A%84%E7%BC%96%E7%A8%8B%E6%84%9F%E6%82%9F.pdf)
-#### [短码之美：编程达人的心得技法](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%9F%AD%E7%A0%81%E4%B9%8B%E7%BE%8E%EF%BC%9A%E7%BC%96%E7%A8%8B%E8%BE%BE%E4%BA%BA%E7%9A%84%E5%BF%83%E5%BE%97%E6%8A%80%E6%B3%95.pdf)
-#### [程序员羊皮卷](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%BE%8A%E7%9A%AE%E5%8D%B7%2B%E4%B8%8B%E8%BD%BD%E7%89%88.pdf)
-#### [精益思想](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%B2%BE%E7%9B%8A%E6%80%9D%E6%83%B3.pdf)
-#### [编程人生](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%BC%96%E7%A8%8B%E4%BA%BA%E7%94%9F_%E6%89%AB%E6%8F%8F%E7%89%88_12.7M.pdf)
-#### [编程高手箴言](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%BC%96%E7%A8%8B%E9%AB%98%E6%89%8B%E7%AE%B4%E8%A8%80.pdf)
-#### [设计心理学](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E8%AE%BE%E8%AE%A1%E5%BF%83%E7%90%86%E5%AD%A6%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C.mobi)
-#### [设计模式之禅](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
-
-<br/>
-
-## 历史类
-
-#### [中国政治思想史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%5B%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3%E5%8F%B2.pdf)
-#### [国史大纲](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E3%80%8A%E5%9B%BD%E5%8F%B2%E5%A4%A7%E7%BA%B2%E3%80%8B%E9%92%B1%E7%A9%86.mobi)
-#### [春秋史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%98%A5%E7%A7%8B%E5%8F%B2.azw3)
-#### [大秦帝国之黑色裂变](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%A4%A7%E7%A7%A6%E5%B8%9D%E5%9B%BD%E4%B9%8B%E9%BB%91%E8%89%B2%E8%A3%82%E5%8F%98.epub)
-#### [极简欧洲史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%9E%81%E7%AE%80%E6%AC%A7%E6%B4%B2%E5%8F%B2.mobi)
-#### [夹边沟记事](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%A4%B9%E8%BE%B9%E6%B2%9F%E8%AE%B0%E4%BA%8B.mobi)
-#### [近代中国史纲](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%8F%B2%E7%BA%B2.epub)
-#### [两晋南北朝史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%A4%E6%99%8B%E5%8D%97%E5%8C%97%E6%9C%9D%E5%8F%B2%20-%20%E5%90%95%E6%80%9D%E5%8B%89.epub)
-#### [中国通史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%90%95%E6%80%9D%E5%8B%89%E6%96%87%E9%9B%86%C2%B7%E5%90%95%E8%91%97%E4%B8%AD%E5%9B%BD%E9%80%9A%E5%8F%B2%EF%BC%88%E4%B8%8A%EF%BC%89.epub)
-#### [明朝那些事儿](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.epub)
-#### [明史讲义](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%98%8E%E5%8F%B2%E8%AE%B2%E4%B9%89.epub)
-#### [年羹尧之死](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%B9%B4%E7%BE%B9%E5%B0%A7%E4%B9%8B%E6%AD%BB.epub)
-#### [秦汉史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E7%A7%A6%E6%B1%89%E5%8F%B2-%E5%90%95%E6%80%9D%E5%8B%89.epub)
-#### [清代学术概论](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%B8%85%E4%BB%A3%E5%AD%A6%E6%9C%AF%E6%A6%82%E8%AE%BA.epub)
-#### [全球通史：从史前史到二十一世纪-上](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%85%A8%E7%90%83%E9%80%9A%E5%8F%B2%EF%BC%9A%E4%BB%8E%E5%8F%B2%E5%89%8D%E5%8F%B2%E5%88%B0%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B8%96%E7%BA%AA%EF%BC%88%E4%B8%8A%EF%BC%89.epub)
-#### [全球通史：从史前史到二十一世纪-下](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/-%E5%85%A8%E7%90%83%E9%80%9A%E5%8F%B2%EF%BC%9A%E4%BB%8E%E5%8F%B2%E5%89%8D%E5%8F%B2%E5%88%B0%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B8%96%E7%BA%AA%EF%BC%88%E4%B8%8B%EF%BC%89.epub)
-#### [人类的故事：正式授权续写至21世纪]()
-#### [人类简史：从动物到上帝](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2%EF%BC%9A%E4%BB%8E%E5%8A%A8%E7%89%A9%E5%88%B0%E4%B8%8A%E5%B8%9D.mobi)
-#### [万历十五年](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%87%E5%8E%86%E5%8D%81%E4%BA%94%E5%B9%B4.mobi)
-#### [往事并不如烟](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%BE%80%E4%BA%8B%E5%B9%B6%E4%B8%8D%E5%A6%82%E7%83%9F.mobi)
-#### [耶路撒冷三千年](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E4%B8%89%E5%8D%83%E5%B9%B4.mobi)
-#### [张居正](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%BC%A0%E5%B1%85%E6%AD%A3.mobi)
-#### [中国近百年政治史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%99%BE%E5%B9%B4%E6%94%BF%E6%B2%BB%E5%8F%B2.pdf)
-#### [中国近代史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2-%E5%BE%90%E4%B8%AD%E7%BA%A6.epub)
-#### [中国历代政治得失](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E5%8E%86%E4%BB%A3%E6%94%BF%E6%B2%BB%E5%BE%97%E5%A4%B1.mobi)
-#### [中国文化史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E5%8F%B2%E5%85%A8%E4%B8%89%E5%86%8C-%E6%9F%B3%E8%AF%92%E5%BE%B5.epub)
-#### [中华帝国对外关系史 第一卷](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%8D%8E%E5%B8%9D%E5%9B%BD%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB%E5%8F%B2%20%E7%AC%AC%E4%B8%80%E5%8D%B7.mobi)
-#### [中华帝国对外关系史 第二卷](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%8D%8E%E5%B8%9D%E5%9B%BD%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB%E5%8F%B2%20%E7%AC%AC%E4%BA%8C%E5%8D%B7.mobi)
-#### [中华帝国对外关系史 第三卷](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%8D%8E%E5%B8%9D%E5%9B%BD%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB%E5%8F%B2%20%E7%AC%AC%E4%B8%89%E5%8D%B7.mobi)
-
-<br/>
-
-## 人物传
-
-#### [从乞丐到元首希特勒](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E4%BB%8E%E4%B9%9E%E4%B8%90%E5%88%B0%E5%85%83%E9%A6%96%E5%B8%8C%E7%89%B9%E5%8B%92%E4%BC%A0%E3%80%8B.txt)
-#### [拿破仑传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E6%8B%BF%E7%A0%B4%E4%BB%91%E4%BC%A0%E3%80%8B%E4%BD%9C%E8%80%85%EF%BC%9A%5B%E5%BE%B7%5D%E8%89%BE%E7%B1%B3%E5%B0%94%C2%B7%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C.txt)
-#### [阿桑奇自传：不能不说的秘密](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%98%BF%E6%A1%91%E5%A5%87%E8%87%AA%E4%BC%A0%EF%BC%9A%E4%B8%8D%E8%83%BD%E4%B8%8D%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86.epub)
-#### [巴尔扎克传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%B7%B4%E5%B0%94%E6%89%8E%E5%85%8B%E4%BC%A0.mobi)
-#### [贝多芬传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E4%BC%A0.mobi)
-#### [俾斯麦传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E4%BF%BE%E6%96%AF%E9%BA%A6%E4%BC%A0.epub)
-#### [别闹了,费曼先生](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%88%AB%E9%97%B9%E4%BA%86%2C%E8%B4%B9%E6%9B%BC%E5%85%88%E7%94%9F.txt)
-#### [褚时健传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E8%A4%9A%E6%97%B6%E5%81%A5%E4%BC%A0.epub)
-#### [道金斯传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%81%93%E9%87%91%E6%96%AF%E4%BC%A0.epub)
-#### [邓小平传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%82%93%E5%B0%8F%E5%B9%B3%E4%BC%A0.pdf)
-#### [第一大亨]()
-#### [顶级金融家](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%A1%B6%E7%BA%A7%E9%87%91%E8%9E%8D%E5%AE%B6-%E5%B0%BC%E5%B0%94%C2%B7%E5%BC%97%E6%A0%BC%E6%A3%AE.epub)
-#### [梵高传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%A2%B5%E9%AB%98%E4%BC%A0.azw3)
-#### [富兰克林--富兰克林自传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97--%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97%E8%87%AA%E4%BC%A0.pdf)
-#### [硅谷钢铁侠：埃隆·马斯克的冒险人生](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0%EF%BC%9A%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%86%92%E9%99%A9%E4%BA%BA%E7%94%9F.epub)
-#### [渴望生活  梵高传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%B8%B4%E6%9C%9B%E7%94%9F%E6%B4%BB%20%20%E6%A2%B5%E9%AB%98%E4%BC%A0.txt)
-#### [李鸿章传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%9D%8E%E9%B8%BF%E7%AB%A0%E4%BC%A0.epub)
-#### [罗斯福传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%BD%97%E6%96%AF%E7%A6%8F%E4%BC%A0.txt)
-#### [罗素传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%BD%97%E7%B4%A0%E4%BC%A0.epub)
-#### [曼德拉传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%9B%BC%E5%BE%B7%E6%8B%89%E4%BC%A0.epub)
-#### [毛泽东传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%BC%A0.txt)
-#### [米開朗基羅傳](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%B1%B3%E9%96%8B%E6%9C%97%E5%9F%BA%E7%BE%85%E5%82%B3.epub)
-#### [名人传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%90%8D%E4%BA%BA%E4%BC%A0-%E6%B3%95-%E7%BD%97%E6%9B%BC.%E7%BD%97%E5%85%B0.txt)
-#### [乔布斯传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E4%B9%94%E5%B8%83%E6%96%AF%E4%BC%A0(%E5%AE%8C%E6%95%B4%E7%89%88).txt)
-#### [权力之路：林登·约翰逊传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%9D%83%E5%8A%9B%E4%B9%8B%E8%B7%AF%EF%BC%9A%E6%9E%97%E7%99%BB%C2%B7%E7%BA%A6%E7%BF%B0%E9%80%8A%E4%BC%A0.azw3)
-#### [人类群星闪耀时](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E4%BA%BA%E7%B1%BB%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6.epub)
-#### [双脑记：认知神经科学之父加扎尼加自传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%8F%8C%E8%84%91%E8%AE%B0%EF%BC%9A%E8%AE%A4%E7%9F%A5%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6%E4%B9%8B%E7%88%B6%E5%8A%A0%E6%89%8E%E5%B0%BC%E5%8A%A0%E8%87%AA%E4%BC%A0.azw3)
-#### [苏东坡传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E8%8B%8F%E4%B8%9C%E5%9D%A1%E4%BC%A0.epub)
-#### [维特根斯坦传：天才之为责任](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6%E4%BC%A0%EF%BC%9A%E5%A4%A9%E6%89%8D%E4%B9%8B%E4%B8%BA%E8%B4%A3%E4%BB%BB.epub)
-#### [我是马拉拉](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%88%91%E6%98%AF%E9%A9%AC%E6%8B%89%E6%8B%89.epub)
-#### [伊莎贝拉  武士女王](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%89%20%20%E6%AD%A6%E5%A3%AB%E5%A5%B3%E7%8E%8B%20%20%5B%E7%BE%8E%5D%20%E5%85%8B%E6%96%AF%E6%B1%80%C2%B7%E5%94%90%E5%B0%BC.epub)
-#### [张纯如：无法忘却历史的女子](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%BC%A0%E7%BA%AF%E5%A6%82%EF%BC%9A%E6%97%A0%E6%B3%95%E5%BF%98%E5%8D%B4%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A5%B3%E5%AD%90.epub)
-#### [卓别林自传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%8D%93%E5%88%AB%E6%9E%97%E8%87%AA%E4%BC%A0.epub)
-#### [彼得·考夫曼-穷查理宝典：查理·芒格的智慧箴言录](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%5B%E7%BE%8E%5D%E5%BD%BC%E5%BE%97%C2%B7%E8%80%83%E5%A4%AB%E6%9B%BC-%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8%EF%BC%9A%E6%9F%A5%E7%90%86%C2%B7%E8%8A%92%E6%A0%BC%E7%9A%84%E6%99%BA%E6%85%A7%E7%AE%B4%E8%A8%80%E5%BD%95.epub)
-
-<br/>
-
 ## 计算机科学类
 
 #### [12网络通信之 HTTP详解](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/12%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E4%B9%8B%20HTTP%E8%AF%A6%E8%A7%A3.pdf)
@@ -436,26 +336,6 @@
 
 <br/>
 
-## 数学类
-
-#### [从一到无穷大](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%5B%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7%5D.%5B%E7%BE%8E%5D%E4%BC%BD%E8%8E%AB%E5%A4%AB.%5B%E6%9A%B4%E6%B0%B8%E5%AE%81%E8%AF%91%5D.pdf)
-#### [思考的乐趣](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%5B%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E2%80%94%E2%80%94%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3%5D.Franqoise.Baliber.%E9%AB%98%E6%B8%85%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
-#### [图灵的秘密](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%9B%BE%E7%81%B5%E7%9A%84%E7%A7%98%E5%AF%86.pdf)
-#### [数学与生活](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E4%B8%8E%E7%94%9F%E6%B4%BB%EF%BC%88%E6%97%A5%EF%BC%89%E8%BF%9C%E5%B1%B1%E5%90%AF.pdf)
-#### [数学之美](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
-#### [数学也荒唐：20个脑洞大开的数学趣题](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E4%B9%9F%E8%8D%92%E5%94%90%EF%BC%9A20%E4%B8%AA%E8%84%91%E6%B4%9E%E5%A4%A7%E5%BC%80%E7%9A%84%E6%95%B0%E5%AD%A6%E8%B6%A3%E9%A2%98.mobi)
-#### [数学女孩](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%A5%B3%E5%AD%A9-%E7%BB%93%E5%9F%8E%E6%B5%A9.pdf)
-#### [数学女孩2：费马大定理 ](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%A5%B3%E5%AD%A92%EF%BC%9A%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86.pdf)
-#### [数学女孩3 哥德尔不完备定理](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%A5%B3%E5%AD%A93%EF%BC%9A%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86.pdf)
-#### [数学简史](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%AE%80%E5%8F%B2.pdf)
-#### [程序员的数学](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)
-#### [程序员的数学2：概率统计](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A62%EF%BC%9A%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1.pdf)
-#### [数学：确定性的丧失](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%AC%AC%E4%B8%80%E6%8E%A8%E5%8A%A8%E4%B8%9B%E4%B9%A6%20%E6%95%B0%E5%AD%A6%EF%BC%9A%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9A%84%E4%B8%A7%E5%A4%B1.pdf)
-#### [素数之恋：黎曼和数学中最大的未解之谜](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%B4%A0%E6%95%B0%E4%B9%8B%E6%81%8B%EF%BC%9A%E9%BB%8E%E6%9B%BC%E5%92%8C%E6%95%B0%E5%AD%A6%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%B0%9C-%E5%BE%B7%E6%AF%94%E5%B8%8C%E5%B0%94-2014.pdf)
-#### [计算机科学的数学](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)
-
-<br/>
-
 ## 哲学类
 
 #### [上帝之城](https://github.com/0voice/expert_readed_books/blob/master/%E5%93%B2%E5%AD%A6%E7%B1%BB/%5B%E5%8F%A4%E7%BD%97%E9%A9%AC%5D%E5%A5%A5%E5%8F%A4%E6%96%AF%E4%B8%81-%E4%B8%8A%E5%B8%9D%E4%B9%8B%E5%9F%8E.epub)
@@ -495,6 +375,149 @@
 
 <br/>
 
+## 大佬书籍
+
+#### [创京东：刘强东亲述创业之路](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E3%80%8A%E5%88%9B%E4%BA%AC%E4%B8%9C%EF%BC%9A%E5%88%98%E5%BC%BA%E4%B8%9C%E4%BA%B2%E8%BF%B0%E5%88%9B%E4%B8%9A%E4%B9%8B%E8%B7%AF%5B%E7%B2%BE%E5%93%81%5D%E3%80%8B.epub)
+#### [比尔盖茨全传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E3%80%8A%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%85%A8%E4%BC%A0%E3%80%8B.pdf)
+#### [刘强东自述](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%88%98%E5%BC%BA%E4%B8%9C%E8%87%AA%E8%BF%B0.md)
+#### [华为的红旗到底能打多久](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%8D%8E%E4%B8%BA%E7%9A%84%E7%BA%A2%E6%97%97%E5%88%B0%E5%BA%95%E8%83%BD%E6%89%93%E5%A4%9A%E4%B9%85.md)
+#### [华人首富的财富传奇_李嘉诚全传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%8D%8E%E4%BA%BA%E9%A6%96%E5%AF%8C%E7%9A%84%E8%B4%A2%E5%AF%8C%E4%BC%A0%E5%A5%87_%E6%9D%8E%E5%98%89%E8%AF%9A%E5%85%A8%E4%BC%A0.mobi)
+#### [史玉柱自述：我的营销心得](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%8F%B2%E7%8E%89%E6%9F%B1%E8%87%AA%E8%BF%B0%EF%BC%9A%E6%88%91%E7%9A%84%E8%90%A5%E9%94%80%E5%BF%83%E5%BE%97.pdf)
+#### [巴菲特传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%BC%A0.pdf)
+#### [我的人生哲学](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E5%93%B2%E5%AD%A6%20%E9%A9%AC%E4%BA%91.pdf)
+#### [李嘉诚的才智人生](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E6%9D%8E%E5%98%89%E8%AF%9A%E7%9A%84%E6%89%8D%E6%99%BA%E4%BA%BA%E7%94%9F.pdf)
+#### [柳传志如是说](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E6%9F%B3%E4%BC%A0%E5%BF%97%E5%A6%82%E6%98%AF%E8%AF%B4.mobi)
+#### [腾讯传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E8%85%BE%E8%AE%AF%E4%BC%A0.md)
+#### [颠覆者 周鸿祎自传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E9%A2%A0%E8%A6%86%E8%80%85%20%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%87%AA%E4%BC%A0.pdf)
+
+<br/>
+
+
+## 思想类
+
+#### [禅与摩托车维修艺术](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF.mobi)
+#### [程序员的职业素养](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB.pdf)
+#### [代码整洁之道](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.azw3)
+#### [交互设计之路](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B9%8B%E8%B7%AF.pdf)
+#### [刻意练习](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0.mobi)
+#### [设计心理学](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E8%AE%BE%E8%AE%A1%E5%BF%83%E7%90%86%E5%AD%A6%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C.mobi)
+#### [修改代码的艺术](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E4%BF%AE%E6%94%B9%E4%BB%A3%E7%A0%81%E7%9A%84%E8%89%BA%E6%9C%AF(%E4%B8%AD%E6%96%87pdf%E7%89%88).pdf)
+#### [C++沉思录(Ruminations on C++)](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/C%2B%2B%E6%B2%89%E6%80%9D%E5%BD%95(Ruminations%20on%20C%2B%2B)%E4%B8%AD%E6%96%87%E7%AC%AC2%E7%89%88.pdf)
+#### [C++编程思想](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/C%2B%2B%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3.pdf)
+#### [C++设计新思维](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/C%2B%2B%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%80%9D%E7%BB%B4.pdf)
+#### [Java程序员的基本修养](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/Java%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BF%AE%E5%85%BB%E6%9D%8E%E5%88%9A%E7%BC%96%E8%91%97.pdf)
+#### [Java编程思想](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3(%E7%AC%AC4%E7%89%88).pdf)
+#### [哥德尔、艾舍尔、巴赫：集异璧之大成](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E5%93%A5%E5%BE%B7%E5%B0%94%E3%80%81%E8%89%BE%E8%88%8D%E5%B0%94%E3%80%81%E5%B7%B4%E8%B5%AB%EF%BC%9A%E9%9B%86%E5%BC%82%E7%92%A7%E4%B9%8B%E5%A4%A7%E6%88%90.mobi)
+#### [失控](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E5%A4%B1%E6%8E%A7.pdf)
+#### [游戏之旅-我的编程感悟](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E6%B8%B8%E6%88%8F%E4%B9%8B%E6%97%85-%E6%88%91%E7%9A%84%E7%BC%96%E7%A8%8B%E6%84%9F%E6%82%9F.pdf)
+#### [短码之美：编程达人的心得技法](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%9F%AD%E7%A0%81%E4%B9%8B%E7%BE%8E%EF%BC%9A%E7%BC%96%E7%A8%8B%E8%BE%BE%E4%BA%BA%E7%9A%84%E5%BF%83%E5%BE%97%E6%8A%80%E6%B3%95.pdf)
+#### [程序员羊皮卷](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%BE%8A%E7%9A%AE%E5%8D%B7%2B%E4%B8%8B%E8%BD%BD%E7%89%88.pdf)
+#### [精益思想](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%B2%BE%E7%9B%8A%E6%80%9D%E6%83%B3.pdf)
+#### [编程人生](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%BC%96%E7%A8%8B%E4%BA%BA%E7%94%9F_%E6%89%AB%E6%8F%8F%E7%89%88_12.7M.pdf)
+#### [编程高手箴言](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E7%BC%96%E7%A8%8B%E9%AB%98%E6%89%8B%E7%AE%B4%E8%A8%80.pdf)
+#### [设计心理学](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E8%AE%BE%E8%AE%A1%E5%BF%83%E7%90%86%E5%AD%A6%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C.mobi)
+#### [设计模式之禅](https://github.com/0voice/expert_readed_books/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%B1%BB/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+
+<br/>
+
+## 历史类
+
+#### [中国政治思想史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%5B%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3%E5%8F%B2.pdf)
+#### [国史大纲](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E3%80%8A%E5%9B%BD%E5%8F%B2%E5%A4%A7%E7%BA%B2%E3%80%8B%E9%92%B1%E7%A9%86.mobi)
+#### [春秋史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%98%A5%E7%A7%8B%E5%8F%B2.azw3)
+#### [大秦帝国之黑色裂变](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%A4%A7%E7%A7%A6%E5%B8%9D%E5%9B%BD%E4%B9%8B%E9%BB%91%E8%89%B2%E8%A3%82%E5%8F%98.epub)
+#### [极简欧洲史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%9E%81%E7%AE%80%E6%AC%A7%E6%B4%B2%E5%8F%B2.mobi)
+#### [夹边沟记事](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%A4%B9%E8%BE%B9%E6%B2%9F%E8%AE%B0%E4%BA%8B.mobi)
+#### [近代中国史纲](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9B%BD%E5%8F%B2%E7%BA%B2.epub)
+#### [两晋南北朝史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%A4%E6%99%8B%E5%8D%97%E5%8C%97%E6%9C%9D%E5%8F%B2%20-%20%E5%90%95%E6%80%9D%E5%8B%89.epub)
+#### [中国通史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%90%95%E6%80%9D%E5%8B%89%E6%96%87%E9%9B%86%C2%B7%E5%90%95%E8%91%97%E4%B8%AD%E5%9B%BD%E9%80%9A%E5%8F%B2%EF%BC%88%E4%B8%8A%EF%BC%89.epub)
+#### [明朝那些事儿](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.epub)
+#### [明史讲义](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%98%8E%E5%8F%B2%E8%AE%B2%E4%B9%89.epub)
+#### [年羹尧之死](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%B9%B4%E7%BE%B9%E5%B0%A7%E4%B9%8B%E6%AD%BB.epub)
+#### [秦汉史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E7%A7%A6%E6%B1%89%E5%8F%B2-%E5%90%95%E6%80%9D%E5%8B%89.epub)
+#### [清代学术概论](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E6%B8%85%E4%BB%A3%E5%AD%A6%E6%9C%AF%E6%A6%82%E8%AE%BA.epub)
+#### [全球通史：从史前史到二十一世纪-上](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%85%A8%E7%90%83%E9%80%9A%E5%8F%B2%EF%BC%9A%E4%BB%8E%E5%8F%B2%E5%89%8D%E5%8F%B2%E5%88%B0%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B8%96%E7%BA%AA%EF%BC%88%E4%B8%8A%EF%BC%89.epub)
+#### [全球通史：从史前史到二十一世纪-下](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/-%E5%85%A8%E7%90%83%E9%80%9A%E5%8F%B2%EF%BC%9A%E4%BB%8E%E5%8F%B2%E5%89%8D%E5%8F%B2%E5%88%B0%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B8%96%E7%BA%AA%EF%BC%88%E4%B8%8B%EF%BC%89.epub)
+#### [人类的故事：正式授权续写至21世纪]()
+#### [人类简史：从动物到上帝](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2%EF%BC%9A%E4%BB%8E%E5%8A%A8%E7%89%A9%E5%88%B0%E4%B8%8A%E5%B8%9D.mobi)
+#### [万历十五年](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%87%E5%8E%86%E5%8D%81%E4%BA%94%E5%B9%B4.mobi)
+#### [往事并不如烟](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%BE%80%E4%BA%8B%E5%B9%B6%E4%B8%8D%E5%A6%82%E7%83%9F.mobi)
+#### [耶路撒冷三千年](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E4%B8%89%E5%8D%83%E5%B9%B4.mobi)
+#### [张居正](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E5%BC%A0%E5%B1%85%E6%AD%A3.mobi)
+#### [中国近百年政治史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%99%BE%E5%B9%B4%E6%94%BF%E6%B2%BB%E5%8F%B2.pdf)
+#### [中国近代史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2-%E5%BE%90%E4%B8%AD%E7%BA%A6.epub)
+#### [中国历代政治得失](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E5%8E%86%E4%BB%A3%E6%94%BF%E6%B2%BB%E5%BE%97%E5%A4%B1.mobi)
+#### [中国文化史](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E5%8F%B2%E5%85%A8%E4%B8%89%E5%86%8C-%E6%9F%B3%E8%AF%92%E5%BE%B5.epub)
+#### [中华帝国对外关系史 第一卷](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%8D%8E%E5%B8%9D%E5%9B%BD%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB%E5%8F%B2%20%E7%AC%AC%E4%B8%80%E5%8D%B7.mobi)
+#### [中华帝国对外关系史 第二卷](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%8D%8E%E5%B8%9D%E5%9B%BD%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB%E5%8F%B2%20%E7%AC%AC%E4%BA%8C%E5%8D%B7.mobi)
+#### [中华帝国对外关系史 第三卷](https://github.com/0voice/expert_readed_books/blob/master/%E5%8E%86%E5%8F%B2%E7%B1%BB/%E4%B8%AD%E5%8D%8E%E5%B8%9D%E5%9B%BD%E5%AF%B9%E5%A4%96%E5%85%B3%E7%B3%BB%E5%8F%B2%20%E7%AC%AC%E4%B8%89%E5%8D%B7.mobi)
+
+<br/>
+
+## 人物传
+
+#### [从乞丐到元首希特勒](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E4%BB%8E%E4%B9%9E%E4%B8%90%E5%88%B0%E5%85%83%E9%A6%96%E5%B8%8C%E7%89%B9%E5%8B%92%E4%BC%A0%E3%80%8B.txt)
+#### [拿破仑传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E3%80%8A%E6%8B%BF%E7%A0%B4%E4%BB%91%E4%BC%A0%E3%80%8B%E4%BD%9C%E8%80%85%EF%BC%9A%5B%E5%BE%B7%5D%E8%89%BE%E7%B1%B3%E5%B0%94%C2%B7%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C.txt)
+#### [阿桑奇自传：不能不说的秘密](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%98%BF%E6%A1%91%E5%A5%87%E8%87%AA%E4%BC%A0%EF%BC%9A%E4%B8%8D%E8%83%BD%E4%B8%8D%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86.epub)
+#### [巴尔扎克传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%B7%B4%E5%B0%94%E6%89%8E%E5%85%8B%E4%BC%A0.mobi)
+#### [贝多芬传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E4%BC%A0.mobi)
+#### [俾斯麦传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E4%BF%BE%E6%96%AF%E9%BA%A6%E4%BC%A0.epub)
+#### [别闹了,费曼先生](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%88%AB%E9%97%B9%E4%BA%86%2C%E8%B4%B9%E6%9B%BC%E5%85%88%E7%94%9F.txt)
+#### [褚时健传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E8%A4%9A%E6%97%B6%E5%81%A5%E4%BC%A0.epub)
+#### [道金斯传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%81%93%E9%87%91%E6%96%AF%E4%BC%A0.epub)
+#### [邓小平传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%82%93%E5%B0%8F%E5%B9%B3%E4%BC%A0.pdf)
+#### [第一大亨]()
+#### [顶级金融家](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E9%A1%B6%E7%BA%A7%E9%87%91%E8%9E%8D%E5%AE%B6-%E5%B0%BC%E5%B0%94%C2%B7%E5%BC%97%E6%A0%BC%E6%A3%AE.epub)
+#### [梵高传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%A2%B5%E9%AB%98%E4%BC%A0.azw3)
+#### [富兰克林--富兰克林自传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97--%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97%E8%87%AA%E4%BC%A0.pdf)
+#### [硅谷钢铁侠：埃隆·马斯克的冒险人生](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0%EF%BC%9A%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%86%92%E9%99%A9%E4%BA%BA%E7%94%9F.epub)
+#### [渴望生活  梵高传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%B8%B4%E6%9C%9B%E7%94%9F%E6%B4%BB%20%20%E6%A2%B5%E9%AB%98%E4%BC%A0.txt)
+#### [李鸿章传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%9D%8E%E9%B8%BF%E7%AB%A0%E4%BC%A0.epub)
+#### [罗斯福传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%BD%97%E6%96%AF%E7%A6%8F%E4%BC%A0.txt)
+#### [罗素传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%BD%97%E7%B4%A0%E4%BC%A0.epub)
+#### [曼德拉传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%9B%BC%E5%BE%B7%E6%8B%89%E4%BC%A0.epub)
+#### [毛泽东传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%BC%A0.txt)
+#### [米開朗基羅傳](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%B1%B3%E9%96%8B%E6%9C%97%E5%9F%BA%E7%BE%85%E5%82%B3.epub)
+#### [名人传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%90%8D%E4%BA%BA%E4%BC%A0-%E6%B3%95-%E7%BD%97%E6%9B%BC.%E7%BD%97%E5%85%B0.txt)
+#### [乔布斯传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E4%B9%94%E5%B8%83%E6%96%AF%E4%BC%A0(%E5%AE%8C%E6%95%B4%E7%89%88).txt)
+#### [权力之路：林登·约翰逊传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%9D%83%E5%8A%9B%E4%B9%8B%E8%B7%AF%EF%BC%9A%E6%9E%97%E7%99%BB%C2%B7%E7%BA%A6%E7%BF%B0%E9%80%8A%E4%BC%A0.azw3)
+#### [人类群星闪耀时](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E4%BA%BA%E7%B1%BB%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6.epub)
+#### [双脑记：认知神经科学之父加扎尼加自传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%8F%8C%E8%84%91%E8%AE%B0%EF%BC%9A%E8%AE%A4%E7%9F%A5%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6%E4%B9%8B%E7%88%B6%E5%8A%A0%E6%89%8E%E5%B0%BC%E5%8A%A0%E8%87%AA%E4%BC%A0.azw3)
+#### [苏东坡传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E8%8B%8F%E4%B8%9C%E5%9D%A1%E4%BC%A0.epub)
+#### [维特根斯坦传：天才之为责任](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6%E4%BC%A0%EF%BC%9A%E5%A4%A9%E6%89%8D%E4%B9%8B%E4%B8%BA%E8%B4%A3%E4%BB%BB.epub)
+#### [我是马拉拉](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E6%88%91%E6%98%AF%E9%A9%AC%E6%8B%89%E6%8B%89.epub)
+#### [伊莎贝拉  武士女王](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%89%20%20%E6%AD%A6%E5%A3%AB%E5%A5%B3%E7%8E%8B%20%20%5B%E7%BE%8E%5D%20%E5%85%8B%E6%96%AF%E6%B1%80%C2%B7%E5%94%90%E5%B0%BC.epub)
+#### [张纯如：无法忘却历史的女子](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%BC%A0%E7%BA%AF%E5%A6%82%EF%BC%9A%E6%97%A0%E6%B3%95%E5%BF%98%E5%8D%B4%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A5%B3%E5%AD%90.epub)
+#### [卓别林自传](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%E5%8D%93%E5%88%AB%E6%9E%97%E8%87%AA%E4%BC%A0.epub)
+#### [彼得·考夫曼-穷查理宝典：查理·芒格的智慧箴言录](https://github.com/0voice/expert_readed_books/blob/master/%E4%BA%BA%E7%89%A9%E4%BC%A0/%5B%E7%BE%8E%5D%E5%BD%BC%E5%BE%97%C2%B7%E8%80%83%E5%A4%AB%E6%9B%BC-%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8%EF%BC%9A%E6%9F%A5%E7%90%86%C2%B7%E8%8A%92%E6%A0%BC%E7%9A%84%E6%99%BA%E6%85%A7%E7%AE%B4%E8%A8%80%E5%BD%95.epub)
+
+<br/>
+
+
+
+
+## 数学类
+
+#### [从一到无穷大](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%5B%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7%5D.%5B%E7%BE%8E%5D%E4%BC%BD%E8%8E%AB%E5%A4%AB.%5B%E6%9A%B4%E6%B0%B8%E5%AE%81%E8%AF%91%5D.pdf)
+#### [思考的乐趣](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%5B%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E2%80%94%E2%80%94%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3%5D.Franqoise.Baliber.%E9%AB%98%E6%B8%85%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
+#### [图灵的秘密](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%9B%BE%E7%81%B5%E7%9A%84%E7%A7%98%E5%AF%86.pdf)
+#### [数学与生活](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E4%B8%8E%E7%94%9F%E6%B4%BB%EF%BC%88%E6%97%A5%EF%BC%89%E8%BF%9C%E5%B1%B1%E5%90%AF.pdf)
+#### [数学之美](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
+#### [数学也荒唐：20个脑洞大开的数学趣题](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E4%B9%9F%E8%8D%92%E5%94%90%EF%BC%9A20%E4%B8%AA%E8%84%91%E6%B4%9E%E5%A4%A7%E5%BC%80%E7%9A%84%E6%95%B0%E5%AD%A6%E8%B6%A3%E9%A2%98.mobi)
+#### [数学女孩](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%A5%B3%E5%AD%A9-%E7%BB%93%E5%9F%8E%E6%B5%A9.pdf)
+#### [数学女孩2：费马大定理 ](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%A5%B3%E5%AD%A92%EF%BC%9A%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86.pdf)
+#### [数学女孩3 哥德尔不完备定理](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%A5%B3%E5%AD%A93%EF%BC%9A%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86.pdf)
+#### [数学简史](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%AE%80%E5%8F%B2.pdf)
+#### [程序员的数学](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)
+#### [程序员的数学2：概率统计](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A62%EF%BC%9A%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1.pdf)
+#### [数学：确定性的丧失](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%AC%AC%E4%B8%80%E6%8E%A8%E5%8A%A8%E4%B8%9B%E4%B9%A6%20%E6%95%B0%E5%AD%A6%EF%BC%9A%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9A%84%E4%B8%A7%E5%A4%B1.pdf)
+#### [素数之恋：黎曼和数学中最大的未解之谜](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%B4%A0%E6%95%B0%E4%B9%8B%E6%81%8B%EF%BC%9A%E9%BB%8E%E6%9B%BC%E5%92%8C%E6%95%B0%E5%AD%A6%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%B0%9C-%E5%BE%B7%E6%AF%94%E5%B8%8C%E5%B0%94-2014.pdf)
+#### [计算机科学的数学](https://github.com/0voice/expert_readed_books/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)
+
+<br/>
+
+
+
 ## 经济类
 
 #### [公司理财](https://github.com/0voice/expert_readed_books/blob/master/%E7%BB%8F%E6%B5%8E%E7%B1%BB/F%20Ross-.Wester%5B%E5%85%AC%E5%8F%B8%E7%90%86%E8%B4%A2%5D.%E7%AC%AC%E5%85%AB%E7%89%88.pdf)
@@ -522,22 +545,7 @@
 
 <br/>
 
-## 大佬书籍
 
-#### [创京东：刘强东亲述创业之路](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E3%80%8A%E5%88%9B%E4%BA%AC%E4%B8%9C%EF%BC%9A%E5%88%98%E5%BC%BA%E4%B8%9C%E4%BA%B2%E8%BF%B0%E5%88%9B%E4%B8%9A%E4%B9%8B%E8%B7%AF%5B%E7%B2%BE%E5%93%81%5D%E3%80%8B.epub)
-#### [比尔盖茨全传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E3%80%8A%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%85%A8%E4%BC%A0%E3%80%8B.pdf)
-#### [刘强东自述](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%88%98%E5%BC%BA%E4%B8%9C%E8%87%AA%E8%BF%B0.md)
-#### [华为的红旗到底能打多久](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%8D%8E%E4%B8%BA%E7%9A%84%E7%BA%A2%E6%97%97%E5%88%B0%E5%BA%95%E8%83%BD%E6%89%93%E5%A4%9A%E4%B9%85.md)
-#### [华人首富的财富传奇_李嘉诚全传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%8D%8E%E4%BA%BA%E9%A6%96%E5%AF%8C%E7%9A%84%E8%B4%A2%E5%AF%8C%E4%BC%A0%E5%A5%87_%E6%9D%8E%E5%98%89%E8%AF%9A%E5%85%A8%E4%BC%A0.mobi)
-#### [史玉柱自述：我的营销心得](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%8F%B2%E7%8E%89%E6%9F%B1%E8%87%AA%E8%BF%B0%EF%BC%9A%E6%88%91%E7%9A%84%E8%90%A5%E9%94%80%E5%BF%83%E5%BE%97.pdf)
-#### [巴菲特传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%BC%A0.pdf)
-#### [我的人生哲学](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E5%93%B2%E5%AD%A6%20%E9%A9%AC%E4%BA%91.pdf)
-#### [李嘉诚的才智人生](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E6%9D%8E%E5%98%89%E8%AF%9A%E7%9A%84%E6%89%8D%E6%99%BA%E4%BA%BA%E7%94%9F.pdf)
-#### [柳传志如是说](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E6%9F%B3%E4%BC%A0%E5%BF%97%E5%A6%82%E6%98%AF%E8%AF%B4.mobi)
-#### [腾讯传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E8%85%BE%E8%AE%AF%E4%BC%A0.md)
-#### [颠覆者 周鸿祎自传](https://github.com/0voice/expert_readed_books/blob/master/%E5%A4%A7%E4%BD%AC%E4%B9%A6%E7%B1%8D/%E9%A2%A0%E8%A6%86%E8%80%85%20%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%87%AA%E4%BC%A0.pdf)
-
-<br/>
 
 ## 小说类
 
@@ -610,7 +618,7 @@
 
 ![大纲部分图.png](https://img11.360buyimg.com/ddimg/jfs/t1/37229/14/15620/149708/60e6a78eE5241eec1/d0f0c9d9aa1e4d99.png)
 
-#### 微信扫码联系VIP课程咨询橙子老师，免费领取更多福利干货资料【备注：GitHub论文】
+#### 微信扫码联系VIP课程咨询橙子老师，免费领取更多福利干货资料【备注：GitHub电子书】
 ![barcode](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
 
   
