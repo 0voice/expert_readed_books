@@ -616,13 +616,9 @@
 #### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
 每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037711)
   
-#### 免费订阅直播链接【添加WX: baby602878196】即可领取对标腾讯T9职级技术要求的后台开发学习图谱。
+#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
-![大纲部分图.png](https://img11.360buyimg.com/ddimg/jfs/t1/37229/14/15620/149708/60e6a78eE5241eec1/d0f0c9d9aa1e4d99.png)
-
-#### 微信扫码联系VIP课程咨询贝贝老师，免费领取更多福利干货资料【备注：GitHub电子书】
-
-![贝贝二维码](https://user-images.githubusercontent.com/87457873/128682025-14a6ee51-20f0-4e83-b0b5-0110bbe7b063.png)
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
 
 
   
