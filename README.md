@@ -92,21 +92,15 @@
 
 ## 计算机科学类
 
-#### [12网络通信之 HTTP详解](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/12%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E4%B9%8B%20HTTP%E8%AF%A6%E8%A7%A3.pdf)
-#### [2D图像硬件加速引擎的设计优化](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/2D%E5%9B%BE%E5%83%8F%E7%A1%AC%E4%BB%B6%E5%8A%A0%E9%80%9F%E5%BC%95%E6%93%8E%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%BC%98%E5%8C%96.pdf)
-#### [5G 网络安全研究报告](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/5G%20%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
-#### [Digital Image Processing 2ed](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Digital%20Image%20Processing%202ed.pdf)
-#### [GVBook1.4RR](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/GVBook1.4RR.pdf)
-#### [HAPIBook1.4](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/HAPIBook1.4.pdf)
-#### [HMM的学习问题和解码问题研究](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/HMM%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E7%A0%81%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6.pdf)
-#### [HTK_basic_tutorial](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/HTK_basic_tutorial.pdf)
-#### [Introducing Windows Azure](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Introducing%20Windows%20Azure.pdf)
-#### [TransBook1.0](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/TransBook1.0.pdf)
+
 #### [TCP-IP详解卷1：协议 - W.Richard Stevens](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B71%EF%BC%9A%E5%8D%8F%E8%AE%AE%20-%20W.Richard%20Stevens%20-%20%E6%9C%BA%E6%A2%B0%E5%B7%A5%E4%B8%9A%E5%87%BA%E7%89%88%E7%A4%BE.pdf)
 #### [TCP-IP详解卷2：实现 - W.Richard Stevens](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B72%EF%BC%9A%E5%AE%9E%E7%8E%B0%20-%20W.Richard%20Stevens%20-%20%E6%9C%BA%E6%A2%B0%E5%B7%A5%E4%B8%9A%E5%87%BA%E7%89%88%E7%A4%BE.pdf)
 #### [TCP-IP详解卷3：TCP事务协议，HTTP，NNTP和UNIX域协议 - W.Richard Stevens](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B73%EF%BC%9ATCP%E4%BA%8B%E5%8A%A1%E5%8D%8F%E8%AE%AE%EF%BC%8CHTTP%EF%BC%8CNNTP%E5%92%8CUNIX%E5%9F%9F%E5%8D%8F%E8%AE%AE%20-%20W.Richard%20Stevens%20-%20%E6%9C%BA%E6%A2%B0%E5%B7%A5%E4%B8%9A%E5%87%BA%E7%89%88%E7%A4%BE.pdf)
 #### [UNIX编程艺术](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/UNIX%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF.pdf)
 #### [Windows核心编程](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Windows%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B(%E7%AC%AC5%E7%89%88)%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+#### [性能之巅](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%80%A7%E8%83%BD%E4%B9%8B%E5%B7%85.md)
+#### [操作系统 精髓与设计原理 ](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20%20%E7%B2%BE%E9%AB%93%E4%B8%8E%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88_12636594.pdf)
+#### [unix高级环境编程](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 #### [Effective C++中文版改善程序与设计的55个具体做法](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%5BEffective%20C%2B%2B%E4%B8%AD%E6%96%87%E7%89%88%E6%94%B9%E5%96%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%9A%8455%E4%B8%AA%E5%85%B7%E4%BD%93%E5%81%9A%E6%B3%95%5D.(%E7%BE%8E)Scott_Meyers.pdf)
 #### [数据结构(C语言版)](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84(C%E8%AF%AD%E8%A8%80%E7%89%88)%5D.%E4%B8%A5%E8%94%9A%E6%95%8F_%E5%90%B4%E4%BC%9F%E6%B0%91.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
 #### [黑客工具全程揭秘](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%5B%E9%BB%91%E5%AE%A2%E5%B7%A5%E5%85%B7%E5%85%A8%E7%A8%8B%E6%8F%AD%E7%A7%98.%E5%BC%A0%E9%BD%90.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
@@ -123,8 +117,7 @@
 #### [华为“网络工程师”培训专用教程](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E5%8D%8E%E4%B8%BA%E2%80%9C%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%B8%88%E2%80%9D%E5%9F%B9%E8%AE%AD%E4%B8%93%E7%94%A8%E6%95%99%E7%A8%8B.pdf)
 #### [嵌入式实时操作系统uCOS-II](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E6%97%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FuCOS-II%5B%E9%82%B5%E8%B4%9D%E8%B4%9D%5D.pdf)
 #### [应用随机过程（分析随机过程）](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E5%BA%94%E7%94%A8%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%EF%BC%88%E5%88%86%E6%9E%90%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%EF%BC%89.pdf)
-#### [性能之巅](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%80%A7%E8%83%BD%E4%B9%8B%E5%B7%85.md)
-#### [操作系统 精髓与设计原理 ](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20%20%E7%B2%BE%E9%AB%93%E4%B8%8E%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88_12636594.pdf)
+
 #### [数据结构C++描述](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84C%2B%2B%E6%8F%8F%E8%BF%B0.pdf)
 #### [机器学习与R语言](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8ER%E8%AF%AD%E8%A8%80.pdf)
 #### [模式分类](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%A8%A1%E5%BC%8F%E5%88%86%E7%B1%BB.pdf)
@@ -148,7 +141,7 @@
 #### [语音信号处理](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AF%AD%E9%9F%B3%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86.pdf)
 #### [语音信号数字处理(](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AF%AD%E9%9F%B3%E4%BF%A1%E5%8F%B7%E6%95%B0%E5%AD%97%E5%A4%84%E7%90%86(L.R.Rabiner).pdf)
 #### [Python网络数据采集](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.epub)
-#### [unix高级环境编程](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
 #### [图解HTTP](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E5%9B%BE%E8%A7%A3HTTP.mobi)
 #### [数据结构与算法分析](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90.mobi)
 #### [普拉达Stephen Prata-C-Primer-Plus](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E6%99%AE%E6%8B%89%E8%BE%BE-(Stephen-Prata)-C-Primer-Plus(%E7%AC%AC6%E7%89%88)(%E4%B8%AD%E6%96%87%E7%89%88).mobi)
@@ -156,7 +149,16 @@
 #### [计算机程序的构造和解释](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A%20pdf%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 #### [编译原理](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%EF%BC%88%E9%AB%98%E6%B8%85%E9%BE%99%E4%B9%A6%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
 #### [编码 隐匿在计算机软硬件背后的语言](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E7%BC%96%E7%A0%81%20%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)
-
+#### [12网络通信之 HTTP详解](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/12%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E4%B9%8B%20HTTP%E8%AF%A6%E8%A7%A3.pdf)
+#### [2D图像硬件加速引擎的设计优化](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/2D%E5%9B%BE%E5%83%8F%E7%A1%AC%E4%BB%B6%E5%8A%A0%E9%80%9F%E5%BC%95%E6%93%8E%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%BC%98%E5%8C%96.pdf)
+#### [5G 网络安全研究报告](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/5G%20%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
+#### [Digital Image Processing 2ed](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Digital%20Image%20Processing%202ed.pdf)
+#### [GVBook1.4RR](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/GVBook1.4RR.pdf)
+#### [HAPIBook1.4](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/HAPIBook1.4.pdf)
+#### [HMM的学习问题和解码问题研究](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/HMM%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E7%A0%81%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6.pdf)
+#### [HTK_basic_tutorial](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/HTK_basic_tutorial.pdf)
+#### [Introducing Windows Azure](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Introducing%20Windows%20Azure.pdf)
+#### [TransBook1.0](https://github.com/0voice/expert_readed_books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/TransBook1.0.pdf)
 <br/>
 
 ## 软件技术类
