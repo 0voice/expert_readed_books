@@ -614,15 +614,18 @@
 <br/>
 <br/>
 
-<h3 >联系我们</h3> 
+<h3 >金主爸爸</h3> 
 
 ---
-#### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
-每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037711)
-  
-#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
+##### 安利术语：零声，专注于C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK, SPDK, bpf/ebpf等等相关技术分享。本repo由零声的小伙伴推动以及所有提交patch的小伙伴（后面鸣谢部分）参与，共同完成。内容来源于互联网，本repo仅限于整理总结。
+
+##### 零声交流群: 762073882, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播通知！](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)
+
+##### 点击进入 [每晚八点技术直播](https://ke.qq.com/course/417774?flowToken=1024646)
+
+<br/>
+<br/>
 
 
   
