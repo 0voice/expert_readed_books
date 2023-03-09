@@ -633,8 +633,22 @@
 <br/>
 <br/>
 
+## 鸣谢
 
-  
+##### 感谢各位贡献patch的朋友， 还很多在issue里面出谋划策的朋友，为此衷心感谢。【排名规则：按照提交patch时间排序】
+
+<a href="https://github.com/wangbojing">
+    <img src="https://avatars2.githubusercontent.com/u/18027560?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/410974689">
+    <img src="https://avatars1.githubusercontent.com/u/20748764?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/GengXYGit">
+    <img src="https://avatars3.githubusercontent.com/u/43578568?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/wenchao1024">
+    <img src="https://avatars3.githubusercontent.com/u/87457873?s=400&v=4" width="40px">
+</a> 
   
   
   
